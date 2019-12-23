@@ -50,7 +50,7 @@ I'm going to download the 64-bit option (highlighted below).<br>
 ![Screen Shot 2019-12-23 at 10 57 30 AM](https://user-images.githubusercontent.com/13493736/71373010-0b57ed80-2573-11ea-86a1-2fa24ee2b74c.png)<br>
 Accept the license agreement, and download it. Once you've downloaded it, go ahead and double click it to install.
 
-#### iii: Verify that Java is Installed
+#### iii. Verify that Java is Installed
 Go back to Step 1 and follow the instructions to open your Terminal and verify that you have Java version 7 or higher installed.
 
 ##### Do not move on with Android Studio install until after you have installed the JDK.
@@ -92,7 +92,7 @@ Select the JDK for your operating system (Mac OSX). In most cases, if you have a
 ![Screen Shot 2019-12-23 at 11 18 57 AM](https://user-images.githubusercontent.com/13493736/71373910-09dbf480-2576-11ea-8d49-b2aa3fada08b.png)<br>
 Accept the license agreement to download and locate the file, and double click it to begin the installation process.
 
-#### iii: Verify that Java is Installed
+#### iii. Verify that Java is Installed
 Go back to Step 1 and follow the instructions to open your Terminal and verify that you have Java version 7 or higher installed.
 
 ##### Do not move on with Android Studio install until after you have installed the JDK.
