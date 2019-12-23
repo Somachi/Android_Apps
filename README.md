@@ -8,7 +8,7 @@ This file contains source codes to my android apps.
 ### 1. Installing The Java Development Kit: Windows Guide
 #### i. Check If You Have Java on Your Computer
 ##### Open the Terminal
-Before you start, you will need to open a program on your computer called the Terminal. To do this, go to the Task Bar at the bottom of your computer screen, click Start, and navigate to Run...
+Before you start, you will need to open a program on your computer called the Terminal. To do this, go to the Task Bar at the bottom of your computer screen, click Start, and navigate to Run...<br>
 ![Screen Shot 2019-12-23 at 10 51 23 AM](https://user-images.githubusercontent.com/13493736/71372654-3130c280-2572-11ea-96f1-c86f86d3822d.png)
 
 Type cmd in the box that pops up. (Your box might look slightly different than ours, depending on what version of Windows your computer is running.)
