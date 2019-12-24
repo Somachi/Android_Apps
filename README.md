@@ -109,5 +109,10 @@ If on a corporate network, you may need to Set Your Proxy Settings (https://deve
 Navigate here (https://developer.android.com/sdk/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics), to the Android developers site to install Android Studio. This page will automatically detect your operating system.<br>
 ![Screen Shot 2019-12-24 at 1 00 12 PM](https://user-images.githubusercontent.com/13493736/71424282-5d6d4180-264d-11ea-9a2c-24512da4fdf0.png)<br>
 Accept the terms and conditions to start the download. Double-click the downloaded file and follow all the prompts. Open the downloaded file, and follow the Android Studio Setup Wizard. Accept the defaults configuration for all steps.<br>
-[github dev.docx](https://github.com/Somachi/Android-Apps/files/3998989/github.dev.docx)
+![Screen Shot 2019-12-24 at 1 01 26 PM](https://user-images.githubusercontent.com/13493736/71424342-e2f0f180-264d-11ea-8b43-ff89d489ffcc.png)<br>
+![Screen Shot 2019-12-24 at 1 05 14 PM](https://user-images.githubusercontent.com/13493736/71424363-12076300-264e-11ea-9cef-251904c1a250.png)<br>
+Setup Wizard
+After finishing the install, the Setup Wizard will download and install some additional components. Be patient, this might take some time depending on your internet speed.<br>
 
+When you reach this screen, make sure that all components are selected.<br>
+![Screen Shot 2019-12-24 at 1 06 49 PM](https://user-images.githubusercontent.com/13493736/71424397-50048700-264e-11ea-8b78-6687e49ea36c.png)
