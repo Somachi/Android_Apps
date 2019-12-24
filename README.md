@@ -111,8 +111,17 @@ Navigate here (https://developer.android.com/sdk/index.html?utm_source=udacity&u
 Accept the terms and conditions to start the download. Double-click the downloaded file and follow all the prompts. Open the downloaded file, and follow the Android Studio Setup Wizard. Accept the defaults configuration for all steps.<br>
 ![Screen Shot 2019-12-24 at 1 01 26 PM](https://user-images.githubusercontent.com/13493736/71424342-e2f0f180-264d-11ea-8b43-ff89d489ffcc.png)<br>
 ![Screen Shot 2019-12-24 at 1 05 14 PM](https://user-images.githubusercontent.com/13493736/71424363-12076300-264e-11ea-9cef-251904c1a250.png)<br>
-Setup Wizard
+When you reach this screen, make sure that all components are selected.<br>
+##### Setup Wizard
 After finishing the install, the Setup Wizard will download and install some additional components. Be patient, this might take some time depending on your internet speed.<br>
 
-When you reach this screen, make sure that all components are selected.<br>
-![Screen Shot 2019-12-24 at 1 06 49 PM](https://user-images.githubusercontent.com/13493736/71424397-50048700-264e-11ea-8b78-6687e49ea36c.png)
+![Screen Shot 2019-12-24 at 1 06 49 PM](https://user-images.githubusercontent.com/13493736/71424397-50048700-264e-11ea-8b78-6687e49ea36c.png)<br>
+Install Finished!
+When you are finished, you will see this window:<br>
+![Screen Shot 2019-12-24 at 1 10 17 PM](https://user-images.githubusercontent.com/13493736/71424443-c1443a00-264e-11ea-8771-68ff3c861490.png)<br>
+#### Important Notes<br>
+#### Note 1: When you download and install Android Studio the appearance of the windows that you'll deal with may be different from the ones provided above, that's OK as the version you'll download is different from the one that was being downloaded when the screenshots above were taken. So, the overall process is the same.<br>
+
+#### Note 2: For the third screenshot that shows the components, if you get fewer components, it's OK, the most important thing is to have them all selected.<br>
+
+#### Note 3: The setup Wizard above will launch when you try to open Android Studio for the first time to download some additional components, follow-up with the wizard until it finishes and Android Studio launches.<br>
