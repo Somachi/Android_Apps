@@ -100,5 +100,14 @@ Without a working copy of Java, the rest of the process will not work. If you ca
 
 Link to Java download site (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+### 2. Download and Install Android Studio
+Make sure you're computer is capable of running Android Studio by checking the system requirements (https://developer.android.com/sdk/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#Requirements).<br>
+If on a corporate network, you may need to Set Your Proxy Settings (https://developer.android.com/studio/intro/studio-config#proxy) or check in with your IT team on help setting up Android Studio.
 
+#### i. Installation Guide: Windows
+##### Install Android Studio
+Navigate here (https://developer.android.com/sdk/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics), to the Android developers site to install Android Studio. This page will automatically detect your operating system.<br>
+![Screen Shot 2019-12-24 at 1 00 12 PM](https://user-images.githubusercontent.com/13493736/71424282-5d6d4180-264d-11ea-9a2c-24512da4fdf0.png)<br>
+Accept the terms and conditions to start the download. Double-click the downloaded file and follow all the prompts. Open the downloaded file, and follow the Android Studio Setup Wizard. Accept the defaults configuration for all steps.<br>
+[github dev.docx](https://github.com/Somachi/Android-Apps/files/3998989/github.dev.docx)
 
