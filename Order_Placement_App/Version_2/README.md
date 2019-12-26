@@ -11,7 +11,7 @@ This file contains source code to my Order Placement Version 2 App With A Thank 
 7. Update the line in the MainActivity.java "package com.example.android.justjava;" with your own android studio package name<br>
 8.You may be required to update the line "import android.support.v7.app.ActionBarActivity;" with "import androidx.appcompat.app.AppCompatActivity;" depending on the version of android studio you are using. Doing the replacement will require you to also update the "ActionBarActivity" with "AppCompatActivity" in the "public class MainActivity extends ActionBarActivity {" code line<br>
 7. Run the app (program)<br>
-8. Click "ORDER" button after selection the number of quantity of items you want using the "+" and "-" button
+8. Click "ORDER" button after selecting the number of quantity of items you want using the "+" and "-" button
 
 ##  Order Placement Version 2 App Output
 ![Screen Shot 2019-12-26 at 2 56 16 PM](https://user-images.githubusercontent.com/13493736/71491773-f2a83b80-27ef-11ea-9e63-3ea0f6c9c873.png)
