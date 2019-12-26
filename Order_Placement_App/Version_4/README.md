@@ -14,8 +14,8 @@ iv. A Scroll View<br>
 6. Replace the code in the MainActivity.java file with the code found here in MainActivity.java<br>
 7. Update the line in the MainActivity.java "package com.example.android.justjava;" with your own android studio package name<br>
 8.You may be required to update the line "import android.support.v7.app.ActionBarActivity;" with "import androidx.appcompat.app.AppCompatActivity;" depending on the version of android studio you are using. Doing the replacement will require you to also update the "ActionBarActivity" with "AppCompatActivity" in the "public class MainActivity extends ActionBarActivity {" code line<br>
-7. Run the app (program)<br>
-8. Click "ORDER" button after selecting the item(s) you want using the check boxes and the number of quantity of the item(s) you want using the "+" and "-" button<br>
+9. Run the app (program)<br>
+10. Click "ORDER" button after selecting the item(s) you want using the check boxes and the number of quantity of the item(s) you want using the "+" and "-" button<br>
 
 ##  Order Placement Version 4 App Output
 i. Output when you run the app:<br>
