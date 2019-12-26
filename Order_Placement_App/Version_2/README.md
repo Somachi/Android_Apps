@@ -13,5 +13,5 @@ This file contains source code to my Order Placement Version 2 App With A Thank 
 7. Run the app (program)<br>
 8. Click "ORDER" button after selection the number of quantity of items you want using the "+" and "-" button
 
-##  Order Placement Version 1 App Output
+##  Order Placement Version 2 App Output
 ![Screen Shot 2019-12-26 at 2 56 16 PM](https://user-images.githubusercontent.com/13493736/71491773-f2a83b80-27ef-11ea-9e63-3ea0f6c9c873.png)
