@@ -13,4 +13,4 @@ This file contains source code to my Order Placement Version 1 App.
 7. Run the app (program)<br>
 
 ##  Order Placement Version 1 App Output
-![Screen Shot 2019-12-26 at 2 42 07 PM](https://user-images.githubusercontent.com/13493736/71491476-1ff3ea00-27ee-11ea-994b-658fb1607428.png)
+![Screen Shot 2019-12-26 at 2 45 40 PM](https://user-images.githubusercontent.com/13493736/71491521-6e08ed80-27ee-11ea-9b60-bf4d51ad301d.png)
