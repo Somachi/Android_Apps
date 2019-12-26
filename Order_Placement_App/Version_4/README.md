@@ -1,9 +1,9 @@
 # Order Placement App version 4
 This file contains source code to my Order Placement Version 3 App With:
-i. A Thank You Message, 
-ii. Check Boxes for Items Bought
-iii. Text Input Field
-iv. A Scroll View
+i. A Thank You Message<br>
+ii. Check Boxes for Items Bought<br>
+iii. Text Input Field<br>
+iv. A Scroll View<br>
 
 ## Instruction - To Run The App
 1. Open Android Studio and make sure it is able to run its default program with no errors<br>
@@ -15,7 +15,7 @@ iv. A Scroll View
 7. Update the line in the MainActivity.java "package com.example.android.justjava;" with your own android studio package name<br>
 8.You may be required to update the line "import android.support.v7.app.ActionBarActivity;" with "import androidx.appcompat.app.AppCompatActivity;" depending on the version of android studio you are using. Doing the replacement will require you to also update the "ActionBarActivity" with "AppCompatActivity" in the "public class MainActivity extends ActionBarActivity {" code line<br>
 7. Run the app (program)<br>
-8. Click "ORDER" button after selecting the item(s) you want using the check boxes and the number of quantity of the item(s) you want using the "+" and "-" button
+8. Click "ORDER" button after selecting the item(s) you want using the check boxes and the number of quantity of the item(s) you want using the "+" and "-" button<br>
 
 ##  Order Placement Version 4 App Output
 i. Output when you run the app:<br>
