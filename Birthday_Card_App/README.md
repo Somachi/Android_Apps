@@ -1,5 +1,5 @@
 # Android-Apps
-This file contains source code to my Brithday Card App app.
+This file contains source code to my Brithday Card App.
 
 ## Instruction - To Run The App
 1. Open Android Studio and make sure it is able to run its default program with no errors<br>
