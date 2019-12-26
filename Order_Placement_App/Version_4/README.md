@@ -22,7 +22,7 @@ i. Output when you run the app:<br>
 ![Screen Shot 2019-12-26 at 3 40 09 PM](https://user-images.githubusercontent.com/13493736/71492727-c8a64780-27f6-11ea-8e61-4487d6ad803a.png)<br>
 
 ii. Output when you enter your name in the "Name" field:<br>
-![Screen Shot 2019-12-26 at 3 41 05 PM](https://user-images.githubusercontent.com/13493736/71492739-d8259080-27f6-11ea-86bd-9a1d5ef993bb.png)
+![Screen Shot 2019-12-26 at 3 45 29 PM](https://user-images.githubusercontent.com/13493736/71492743-e2e02580-27f6-11ea-8458-48b00b26c482.png)
 
 iii. Output when you click the "ORDER" button - The app will redirect you to your mail application and add your order information as a composed email with the title "JustJava order for Bright":<br>
-![Screen Shot 2019-12-26 at 3 45 29 PM](https://user-images.githubusercontent.com/13493736/71492743-e2e02580-27f6-11ea-8458-48b00b26c482.png)
+![Screen Shot 2019-12-26 at 3 41 05 PM](https://user-images.githubusercontent.com/13493736/71492739-d8259080-27f6-11ea-86bd-9a1d5ef993bb.png)
