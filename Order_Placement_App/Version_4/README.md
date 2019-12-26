@@ -12,7 +12,7 @@ iv. A Scroll View<br>
 4. Save the file name as dimens which will turn save the file as dimens.xml<br>
 5. Using Android Studio replace the code in the dimens.xml file with the code in the dimens.xml file here<br>
 6. Replace the code in the MainActivity.java file with the code found here in MainActivity.java<br>
-7. Update the line in the MainActivity.java "package com.example.android.justjava;" with your own android studio package name<br>
+7. Update the line in the MainActivity.java "package com.example.android.justjava;" with your own android studio package name
 8.You may be required to update the line "import android.support.v7.app.ActionBarActivity;" with "import androidx.appcompat.app.AppCompatActivity;" depending on the version of android studio you are using. Doing the replacement will require you to also update the "ActionBarActivity" with "AppCompatActivity" in the "public class MainActivity extends ActionBarActivity {" code line<br>
 9. Run the app (program)<br>
 10. Enter your name in "Name" field
