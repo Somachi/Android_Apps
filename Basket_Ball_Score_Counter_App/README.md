@@ -34,4 +34,4 @@ This file contains source code to my Basket Ball Score Counter App With:
 8. Run the app (program)<br>
 
 ## Basket Ball Score Counter App Output
-![Screen Shot 2019-12-26 at 9 01 57 PM](https://user-images.githubusercontent.com/13493736/71500640-15a01300-2823-11ea-8027-de46acce43a5.png)
+![Screen Shot 2019-12-26 at 9 21 53 PM](https://user-images.githubusercontent.com/13493736/71501131-c6a7ad00-2825-11ea-8726-00e2289b6489.png)
