@@ -8,7 +8,7 @@ This file contains source code to my Basket Ball Score Counter App With:
 3. Replace the code in the MainActivity.java file with the code found here in MainActivity.java<br>
 4. Update the line in the MainActivity.java "package com.example.android.courtcounter;" with your own android studio package name. You may be required to update the line "import android.support.v7.app.ActionBarActivity;" with "import androidx.appcompat.app.AppCompatActivity;" depending on the version of android studio you are using. Doing the replacement will require you to also update the "ActionBarActivity" with "AppCompatActivity" in the "public class MainActivity extends ActionBarActivity {" code line<br>
 5. In the MainActivity.java file comment out the portion of the code:<br>
-    @Override<br>
+    "@Override<br>
     public boolean onCreateOptionsMenu(Menu menu) {<br>
         // Inflate the menu; this adds items to the action bar if it is present.<br>
         getMenuInflater().inflate(R.menu.menu_main, menu);<br>
@@ -28,7 +28,8 @@ This file contains source code to my Basket Ball Score Counter App With:
         }
 
         return super.onOptionsItemSelected(item);
-    }
+    }"
+6. Replace the code in the styles.xml file with the code found here in styles.xml<br>
     
 8. Run the app (program)<br>
 
