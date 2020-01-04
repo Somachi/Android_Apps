@@ -142,4 +142,34 @@ When you are finished, you will see this window:<br>
 ![Screen Shot 2019-12-24 at 1 18 06 PM](https://user-images.githubusercontent.com/13493736/71424552-db324c80-264f-11ea-8aa8-70f7e85e14f5.png)<br>
 If you're installing a recent version of Android Studio (from around April/May/June 2015) on a Mac, a standard installation might fail with a bunch of errors. If that happens, try doing a "Custom Setup" instead. Just keep clicking "Next" through all of the custom options (there's nothing you actually need to change) and let it install. If using a custom install doesn't fix your issue, keep troubleshooting and look through discussion posts!
 
+# License
 
+Copyright © 2019 Bright Nwanoruo 
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+
+    1. Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer.
+
+
+    2. Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution.
+
+
+    3. Neither the name of The author nor the names of its contributors may
+       be used to endorse or promote products derived from this software
+       without specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR AND CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
